@@ -37,6 +37,10 @@ python k8s_visualize.py
 
 Open your browser and navigate to: [http://127.0.0.1:8050](http://127.0.0.1:8050)
 
+## Screenshare for idea sake
+
+![](./resources/quickscreencapture1.mov)
+
 ## Usage
 - **Select Layout:** Use the dropdown to change the graph layout.
 - **Inspect Nodes:** Click on a node to view detailed metadata.
