@@ -39,7 +39,7 @@ Open your browser and navigate to: [http://127.0.0.1:8050](http://127.0.0.1:8050
 
 ## Screenshare for idea sake
 
-![](./resources/quickscreencapture1.mov)
+![](./resources/quickscreencapturegif.gif)
 
 ## Usage
 - **Select Layout:** Use the dropdown to change the graph layout.
